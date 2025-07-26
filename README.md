@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png" width="150" height="150">
 </p>
-<h3 align="center">You have been greeted by a wild <b>Hitmonlee</b></h3>
+<h3 align="center">You have been greeted by a wild <b>Machop</b></h3>
 
 <a href="https://github.com/jekhuz"><h3 align="center"><b>jekhuz</b></h3></a>
 
@@ -17,7 +17,7 @@
 
 ```bash
 	
-2025-07-26 - 15:22:14 UTC
+2025-07-26 - 15:50:31 UTC
 
 ```
 
